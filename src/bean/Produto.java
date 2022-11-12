@@ -2,7 +2,7 @@ package bean;
 
 public class Produto {
     private String nome;
-    private Float valor;
+    private Double valor;
     private Integer estoque;
     private String unidade;
 
@@ -30,11 +30,11 @@ public class Produto {
         this.nome = nome;
     }
 
-    public Float getValor() {
+    public Double getValor() {
         return valor;
     }
 
-    public void setValor(Float valor) {
+    public void setValor(Double valor) {
         this.valor = valor;
     }
 
