@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\h2-2.1.214 (1).jar",
+            "c:\\h2-2.1.214 (1).jar"
+        ],
+        "exclude": [
+            "src/driver/h2-2.1.214.jar"
+        ]
+    }
+}
